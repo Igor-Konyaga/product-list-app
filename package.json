@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "homepage": "https://igor-konyaga.github.io/product-list-app/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "@types/react-redux": "^7.1.33",
