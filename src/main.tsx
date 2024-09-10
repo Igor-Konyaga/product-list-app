@@ -10,7 +10,7 @@ import { store } from "./redux/store.ts";
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <Provider store={store}>
-      <BrowserRouter basename='https://skill-sniffer.online/'>
+      <BrowserRouter basename='skill-sniffer.online'>
         <App />
       </BrowserRouter>
     </Provider>
